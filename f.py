@@ -1,0 +1,11 @@
+cpf = input('Digite seu cpf:')
+
+num1 = int(cpf[0])
+num2 = int(cpf[1])
+num3 = int(cpf[2])
+num4 = int(cpf[3])
+num5 = int(cpf[4])
+num6 = int(cpf[5])
+num7 = int(cpf[6])
+num8 = int(cpf[7])
+num9 = int(cpf[8])
